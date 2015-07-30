@@ -1,5 +1,5 @@
 <?php
-namespace PXL\ExtendedValidators;
+namespace Pixelindustries\ExtendedValidators;
 
 /**
  * For ExtendedValidator
