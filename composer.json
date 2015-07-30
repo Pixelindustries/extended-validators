@@ -1,0 +1,20 @@
+{
+    "name": "pixelindustries/extended-validators",
+    "description": "Extended validators for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Coen Zimmerman",
+            "email": "coen@pixelindustries.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pixelindustries\\ExtendedValidators\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/validation": "^5.1"
+    }
+}
